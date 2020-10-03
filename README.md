@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 ## Your Fav Playlist 🎧
 
@@ -148,6 +148,7 @@ Kalian bisa menambahkan genre atau subgenre playlist kalian, jika masih belum ad
 | LAGU INDONESIA TERBARU 2020 (Playlist Teman Kerja & Saat Santai) | [YouTube](https://www.youtube.com/playlist?list=PLkbaG37V-vG8Fib_qvgOKf3qzqA0SUk59) | YouTube | [dwichan0905](https://github.com/dwichan0905) | Lagu-lagu Indonesia Terbaru di tahun 2020 | - |
 | Lagu Barat 2000an (Good Memories) | [YouTube](https://www.youtube.com/playlist?list=PLyAxYdv0v7kyi5u6T6kOnwZ9z1vb631iX) | YouTube | [alfidh02](https://github.com/alfidh02) | Lagu-lagu barat yang enak dan buat nostalgia dari tahun 2000an | - |
 | Best of Last Child | [Spotify](https://open.spotify.com/playlist/5q63IWXzeGbXp2NsuCeo4q) | Spotify | [akhmadrizki](https://github.com/akhmadrizki) | Best Songs of Last Child | - |
+| Best Song Japan 2019 (Sad) | [YouTube](https://www.youtube.com/watch?v=UIyL1jI7Xwc) | YouTube | [Henry6612700](https://github.com/Henry6612700) | - | - |
 
 
 ## Lo-Fi HipHop
@@ -284,6 +285,7 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
     <td align="center"><a href="http://lab-ekickx.my.id"><img src="https://avatars1.githubusercontent.com/u/26477782?v=4" width="120px;" alt=""/><br /><sub><b>Ghani Rafif</b></sub></a><br /><a href="#content-ekickx" title="Content">🖋</a></td>
     <td align="center"><a href="https://wonderwoman.team"><img src="https://avatars0.githubusercontent.com/u/35220738?v=4" width="120px;" alt=""/><br /><sub><b>iNath</b></sub></a><br /><a href="#content-nat9h" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/alfidh02"><img src="https://avatars3.githubusercontent.com/u/58141964?v=4" width="120px;" alt=""/><br /><sub><b>Alfi Dharmawan</b></sub></a><br /><a href="#content-alfidh02" title="Content">🖋</a></td>
+   <td align="center"><a href="https://github.com/Henry6612700"><img src="https://avatars3.githubusercontent.com/u/34593843?s=460&v=4" width="120px;" alt=""/><br /><sub><b>Henry</b></sub></a><br /><a href="#content-Henry6612700" title="Content">🖋</a></td>	
   </tr>
   <tr>
     <td align="center"><a href="http://alihgae.com"><img src="https://avatars3.githubusercontent.com/u/33476707?v=4" width="120px;" alt=""/><br /><sub><b>Akhmad Rizki Prayoga</b></sub></a><br /><a href="#content-akhmadrizki" title="Content">🖋</a></td>
